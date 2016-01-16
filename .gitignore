@@ -1,0 +1,7 @@
+__pycache__
+/.project
+/.pydevproject
+/.idea/
+/.settings/
+thumbs.db
+log.txt
